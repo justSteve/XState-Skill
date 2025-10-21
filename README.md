@@ -26,7 +26,7 @@ This is a **skill** for [Claude Code](https://claude.com/claude-code) - a modula
 1. **Download the skill:**
    ```bash
    # Clone this repository
-   git clone https://github.com/YOUR_USERNAME/XState-Skill.git
+   git clone https://github.com/justSteve/XState-Skill.git
 
    # Or download the latest release
    # (releases coming soon)
